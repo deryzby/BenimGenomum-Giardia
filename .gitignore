@@ -1,0 +1,10 @@
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.fasta
+*.fa
+*.zip
+flye_output/
+ham_veri/
+
