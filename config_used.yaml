@@ -1,0 +1,16 @@
+samples:
+  giardia_duodenalis:
+    reads: "./ham_veri/SRR26410993_1.fastq"
+
+genome_size: "12m"
+min_read_length: 1000
+threads: 4
+
+notes:
+  workflow_type: "manual equivalent workflow"
+  assembler: "Flye"
+  qc_tool: "FastQC"
+  evaluation_tool: "QUAST"
+  reference_genome: "./reference/giardia_reference.fna"
+  accession: "SRR26410993"
+
