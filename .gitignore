@@ -9,3 +9,14 @@ flye_output/
 ham_veri/
 
 qc/
+quast_results/basic_stats/
+quast_results/icarus_viewers/
+quast_results/icarus.html
+quast_results/quast.log
+quast_results/report.html
+quast_results/report.tex
+quast_results/report.tsv
+quast_results/transposed_report.tex
+quast_results/transposed_report.tsv
+quast_results/transposed_report.txt
+

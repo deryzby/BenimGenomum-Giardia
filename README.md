@@ -43,3 +43,22 @@ The project follows these main steps:
 ## Project Status
 
 Project setup and initial data acquisition are currently in progress.
+## Assembly Results
+
+Draft genome assembly was generated using Flye and evaluated with QUAST.
+
+### Assembly statistics
+
+- Total length: 11,716,747 bp
+- Number of contigs: 23
+- Largest contig: 2,951,713 bp
+- N50: 2,412,838 bp
+- L50: 3
+- GC content: 49.8%
+- N per 100 kbp: 0
+
+### Interpretation
+
+The assembly size is consistent with the expected genome size of *Giardia*.
+QUAST results suggest that the assembly is suitable as a draft genome assembly for downstream analysis and project presentation.
+
