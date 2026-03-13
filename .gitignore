@@ -20,3 +20,18 @@ quast_results/transposed_report.tex
 quast_results/transposed_report.tsv
 quast_results/transposed_report.txt
 
+quast_reference_results/basic_stats/
+quast_reference_results/aligned_stats/
+quast_reference_results/contigs_reports/
+quast_reference_results/genome_stats/
+quast_reference_results/icarus_viewers/
+quast_reference_results/icarus.html
+quast_reference_results/quast.log
+quast_reference_results/report.html
+quast_reference_results/report.tex
+quast_reference_results/report.tsv
+quast_reference_results/transposed_report.tex
+quast_reference_results/transposed_report.tsv
+quast_reference_results/transposed_report.txt
+reference/*.Zone.Identifier
+
